@@ -1,5 +1,5 @@
 #written in python 3.4
-#`chcp 65001` for utf-8 in windows command prompt
+#use `chcp 65001` for utf-8 in windows command prompt
 #decompiler used was fernflower.jar from https://the.bytecode.club/showthread.php?tid=5
 #decompiler usage: java -jar fernflower.jar minecraft.jar decomp_folder/
 #minecraft version tested was 15w41b.jar
