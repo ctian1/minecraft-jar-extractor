@@ -96,7 +96,7 @@ def process_packet_definition(data):
     new_fields = []
     for field in fields:
         field = field.strip()
-        if 'read' in field:
+        if '.read' in field:
             match = re.search(r'read(.+?)\(', field)
             if match:
                 # print(match)
